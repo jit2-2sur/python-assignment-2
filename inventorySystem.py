@@ -92,9 +92,6 @@ products = [
     Product("silverbeet", "10 RS", 50, "Marrow"),
 ]
 
-# initial items in the cart
-user_cart = []
-
 # 1. Print the total number of products in the list.
 print("Total number of products in the list: ", len(products), "\n")
 
